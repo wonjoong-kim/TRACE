@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Meta-evaluation
 ```bash
-python ./meta_evaluation/TRACE_evaluation --llm gpt-4.1 --dataset meta_gta
+python ./meta_evaluation/TRACE_evaluation.py --llm gpt-4.1 --dataset meta_gta
 ```
 
 ## Evaluation for various agents on GTA dataset
